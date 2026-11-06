@@ -1,3 +1,35 @@
+# The path so far — Kopy
+
+UX220 Assignment 2 · Wilfrid Laurier University
+
+[View the website](https://pypeoo.github.io/UX220-Assignment2-Kopy/)
+
+## Included experiences
+
+1. FYLP leadership
+2. Art Hawks creative work
+3. Campus recruitment ambassador
+4. Piano and guitar practice
+5. StuDock design and prototyping
+
+Each file in `items/` answers all six reflection questions. `index.html` contains matching semantic HTML so the page works without a JavaScript Markdown dependency.
+
+## Personal review before submission
+
+The reflections are a first-person draft based on previously shared experiences. Review the proposed feelings, favourite memories, dislikes, dates, and letter grades so they accurately reflect your experience. Exact first-year dates and a formal Art Hawks title were not confirmed.
+
+## Preview and editing
+
+Open this repository in a Codespace. Right-click `index.html` and choose **Open with Live Server** (the course configuration includes the extension). Edit both the relevant Markdown file and its matching HTML reflection when changing content. GitHub Pages publishes from `main` and `/ (root)`.
+
+## CSS branding
+
+Playfair Display is the heading font; DM Sans is the body font. Both are Google Fonts. Theme colours are declared in `:root` in `styles.css` and used by the navbar, footer, buttons, and page. The design includes responsive layout, visible keyboard focus, a skip link, and whitespace between experiences.
+
+---
+
+## Original assignment instructions
+
 # Assignment 2
 
 ## Quick Start
@@ -71,3 +103,4 @@ Markdown is used by programmer's web sites like stack overflow and github to gen
 If you are reading this in your code editor you can hopefully see what I mean. There is a complete specification of github flavored markdown [here](https://github.github.com/gfm/)
 
 This is a scaffold for the assignment. Please submit an issue on the repository or email me if you have questions or concerns.
+

@@ -1,4 +1,4 @@
-# Welcoming the next chapter
+# Strangers to Friends
 
 ## What was it that you did?
 

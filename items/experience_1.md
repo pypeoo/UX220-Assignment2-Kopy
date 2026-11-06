@@ -1,4 +1,4 @@
-# As a freshman, I've:
+# As a freshman, I've: 
 
 ## What was it that you did?
 
@@ -20,3 +20,5 @@ I met many people, from students to academic advisors. I got to show off my skil
 
 As a freshman, even harder as an international. I was overwhelmed with on-campus tasks while working on assignments and midterms. However, I’ve learned that it’s fine to bring up the problems so we can resolve them together. I evaluated the people around me differently, positively. 
 
+## Evaluation
+This role deserved a solid B

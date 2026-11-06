@@ -1,4 +1,4 @@
-# The path so far — Kopy
+# Me, experiences?
 
 UX220 Assignment 2 · Wilfrid Laurier University
 

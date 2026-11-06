@@ -1,4 +1,4 @@
-# Finding my voice in residence
+# As a freshman, I've:
 
 ## What was it that you did?
 

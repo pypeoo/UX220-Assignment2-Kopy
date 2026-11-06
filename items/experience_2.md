@@ -1,4 +1,4 @@
-# Making creativity visible
+# Being creative in Design
 
 ## What was it that you did?
 
